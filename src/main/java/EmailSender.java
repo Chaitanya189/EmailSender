@@ -6,7 +6,7 @@ public class EmailSender {
 
     public static void main(String[] args) {
         // Replace with your real Gmail
-        final String fromEmail = "use gmail here";
+        final String fromEmail = "use your gmail here";
         final String password = "qlnp vvec bfhj npgp (eg)"; // Use Genrated Gmail Password here
         final String toEmail = "use gmail of whom you want to send";
 
