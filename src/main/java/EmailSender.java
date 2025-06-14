@@ -6,13 +6,13 @@ public class EmailSender {
 
     public static void main(String[] args) {
         // Replace with your real Gmail
-        final String fromEmail = "chaitanyasharma366@gmail.com";
-        final String password = "qlnp vvec brhj npgp"; // Use Genrated Gmail Password here
-        final String toEmail = "dikshasharma201418@gmail.com";
+        final String fromEmail = "use your gmail here";
+        final String password = "qlnp vvec bfhj npgp (eg)"; // Use Genrated Gmail Password here
+        final String toEmail = "use gmail of whom you want to send";
 
         // Email content
-        String subject = "Test Email from Java App";
-        String body = "Hi there,\n\nThis is a test email sent from Java using JavaMail API!";
+        String subject = "Test Email from Java App"; //Edit your subject
+        String body = "Hi there,\n\nThis is a test email sent from Java using JavaMail API!"; //body of email
 
         // SMTP properties
         Properties props = new Properties();
